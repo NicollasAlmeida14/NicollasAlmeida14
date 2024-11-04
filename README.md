@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Eu sou o Nicollas Almeida Lopes. sou um programador Front End, atualmente estou aprendendo e criando projetos com
+Eu sou o Nicollas Almeida Lopes, sou um programador Front End, atualmente estou aprendendo e criando projetos com
 <br>
 <br>
 
