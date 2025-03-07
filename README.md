@@ -23,7 +23,7 @@
  <a href="https://www.linkedin.com/in/nicollas-almeida-lopes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"/>
  <br>
  <br>
- [![Nicollas Stats](https://github-readme-stats.vercel.app/api?username=NicollasAlmeida14)](https://github.com/anuraghazra/github-readme-stats)
+
  <br>
  <br>
- [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicollasAlmeida14)](https://github.com/anuraghazra/github-readme-stats)
+
