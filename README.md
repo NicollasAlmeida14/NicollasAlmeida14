@@ -136,7 +136,7 @@ Previsão de conclusão: 2027
 
 🌐 Portfólio
 
-https://portifolio-nicollas.vercel.app/projetos
+https://portifolio-nicollas.vercel.app/
 
 📧 E-mail
 
