@@ -82,9 +82,9 @@ Aplicação Full Stack desenvolvida durante a mentoria DevClub com o objetivo de
 
 ## 📊 Estatísticas GitHub
 
-[![Nicollas Stats](https://github-readme-stats.vercel.app/api?username=nicollasalmeida14)](https://github.com/anuraghazra/github-readme-stats)
+[![Nicollas Stats](https://github-readme-stats-extended.vercel.app/api?username=nicollasalmeida14)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicollasalmeida14)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=nicollasalmeida14)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
